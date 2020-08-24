@@ -1,6 +1,5 @@
 
-![Crypto dinar logo](https://github.com/ivanbuncic/crypto-dinar/blob/master/crypto-dinar.png?raw=true)
-Format: ![Crypto dinar logo](https://github.com/ivanbuncic/crypto-dinar/blob/master/crypto-dinar.png?raw=true)
+![Crypto dinar logo](https://github.com/ivanbuncic/crypto-dinar/blob/master/crypto-dinar.png?raw=true =360x360)
 
 # Crypto dinar
 

@@ -1,5 +1,5 @@
 
-![Crypto dinar logo](https://github.com/ivanbuncic/crypto-dinar/blob/master/cryptodinar.png)
+<img align="center" src="https://github.com/ivanbuncic/crypto-dinar/blob/master/cryptodinar.png" width="360"/>
 
 # Crypto dinar
 
